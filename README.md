@@ -52,7 +52,7 @@ Designing a layered Bayesian/Kalman filter architecture with Bronze/Silver/Gold 
 
 ## Background
 
-B.S. Computational Mathematics (ASU) · M.S. Applied Statistics, Bayesian threat modeling (OU) · M.A. Liberal Arts (JHU) · Cybersecurity Analytics Bootcamp (Fullstack Academy)  
+D.Eng. Cybersecurity Analytics (George Washington University, in progress) · B.S. Computational Mathematics (ASU) · M.S. Applied Statistics, Bayesian threat modeling (OU) · M.A. Liberal Arts (JHU) · Cybersecurity Analytics Bootcamp (Fullstack Academy)  
 Prior: Software Engineer, Intel SSG Hillsboro — SSG Division Award for Engineering Excellence, cross-organizational work with Microsoft OS Power team
 
 ---
